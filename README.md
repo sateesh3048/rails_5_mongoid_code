@@ -1,0 +1,2 @@
+# rails_5_mongoid_code
+rails_5_mongoid_code
